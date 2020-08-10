@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![Senthil's github stats](https://github-readme-stats.vercel.app/api?username=spk2dc&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/spk2dc/github-readme-stats)
+[![Senthil's github stats](https://github-readme-stats.vercel.app/api?username=spk2dc&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/spk2dc/spk2dc.github.io)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spk2dc)](https://github.com/spk2dc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spk2dc&show_icons=true&theme=algolia)](https://github.com/spk2dc/spk2dc.github.io)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spk2dc&repo=github-readme-stats)](https://github.com/spk2dc/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spk2dc&repo=spk2dc.github.io)](https://github.com/spk2dc/spk2dc.github.io)
