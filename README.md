@@ -3,7 +3,7 @@
 Feel free to look at my [portfolio](https://github.com/spk2dc/spk2dc.github.io) to see some of my recent projects or my [LinkedIn](https://www.linkedin.com/in/spk2dc/) for my professional work experience. 
 
 <p align="left" style="display: inline-block;"> <img src="https://komarev.com/ghpvc/?username=spk2dc" alt="spk2dc" /> </p>
-<p align="center" style="display: inline-block;">
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/spk2dc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/spk2dc" height="30" width="30" /></a>
 </p>
 
@@ -14,9 +14,9 @@ Feel free to look at my [portfolio](https://github.com/spk2dc/spk2dc.github.io) 
 
 ## My GitHub Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=spk2dc&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" alt="spk2dc" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=spk2dc&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" alt="spk2dc" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spk2dc&show_icons=true&theme=algolia&include_all_commits=true&layout=compact&hide=css" alt="spk2dc" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spk2dc&show_icons=true&theme=algolia&include_all_commits=true&layout=compact&hide=css" alt="spk2dc" />
 
 ## My Portfolio
 
