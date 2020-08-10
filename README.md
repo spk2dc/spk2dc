@@ -18,6 +18,8 @@ Feel free to look at my [portfolio](https://github.com/spk2dc/spk2dc.github.io) 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spk2dc&show_icons=true&theme=algolia&include_all_commits=true&layout=compact&hide=css" alt="spk2dc" />
 
+<br />
+
 ## My Portfolio
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spk2dc&repo=spk2dc.github.io&theme=algolia)](https://github.com/spk2dc/spk2dc.github.io)
