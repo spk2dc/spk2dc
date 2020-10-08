@@ -38,6 +38,10 @@ Feel free to look at my [portfolio](https://github.com/spk2dc/spk2dc.github.io) 
 
 <br />
 
+<img src="http://ghchart.rshah.org/spk2dc" alt="git_contributions"/> 
+
+<br />
+
 ## My Portfolio
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spk2dc&repo=spk2dc.github.io&theme=algolia)](https://github.com/spk2dc/spk2dc.github.io)
